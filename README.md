@@ -35,7 +35,7 @@ This project is a web-based application built using PHP native to manage the ele
 
 4. Import the database from the provided SQL file:
    ```bash
-   mysql -u your-username -p student_council_election < database.sql
+   mysql -u LorentzaZweena -p student_council_election < database.sql
    ```
 
 5. Configure the database connection in the project:
